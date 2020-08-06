@@ -45,6 +45,8 @@ First Place on Banking and Insurance Category
 ## 🤔 Where else you can find me?
 - Linkedin : [@savas-ayik](https://www.linkedin.com/in/savas-ayik/)
 - Instagram: [savasayik](https://instagram.com/savasayik)
+- StackShare: [savas](https://stackshare.io/savas)
+
 
 ## 📫 How to reach me
 - Drop me a mail at savas@savasayik.com!
