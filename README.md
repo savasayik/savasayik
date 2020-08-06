@@ -23,7 +23,7 @@ I love designing software architecture.
 
 
 ## 🌱 My Development Skils
-Docker, Kubernetes, Golang, NodeJS, .NET 4.7/4.5/4.0/3.x/2.0, ASP.NET, ASP.NET Core, Web API, Microservices, MSMQ, AMQP, RabbitMQ, SocketIO, NServiceBus, Entity Framework, JavaScript, AngularJS 1-8, ADO.NET, WCF, Web Services, REST API, Windows Services, Dependency Injection, Unity Framework, Castle Windsor, Jasmine, JSON, Embeded C , TSQL, PL/SQL, XML, XAML, JSON, HTML, XSLT, SCSS, JavaScript, Linq, GitHub, TFS Git, Angular 1-8, MVC, Razor, WPF, SingnalR, WinForms, LINQ, AJAX, jQuery, Java, C, Managed C++, Unit Test, 
+Docker, Kubernetes, Golang, NodeJS, .NET 4.7/4.5/4.0/3.x/2.0, ASP.NET, ASP.NET Core, Web API, Microservices, MSMQ, AMQP, RabbitMQ, SocketIO, NServiceBus, Entity Framework, JavaScript, AngularJS 1-8, ADO.NET, WCF, Web Services, REST API, Windows Services, Dependency Injection, Unity Framework, Castle Windsor, Jasmine, JSON, Embeded C , TSQL, PL/SQL, XML, XAML, JSON, HTML, XSLT, SCSS, JavaScript, Linq, GitHub, TFS Git, Angular 1-8, MVC, Razor, WPF, SingnalR, WinForms, LINQ, AJAX, jQuery, Java, C, Managed C++, Unit Test,
 
 
 ## 🤔 Where else you can find me?
