@@ -11,7 +11,6 @@ I love designing software architecture.
 - PostgreSql
 - MongoDB
 - RabbitMQ
-- Kubernetes
 
 ## 👯 I’m looking to collaborate on
 - Microservices
@@ -23,7 +22,24 @@ I love designing software architecture.
 
 
 ## 🌱 My Development Skils
-Docker, Kubernetes, Golang, NodeJS, .NET 4.7/4.5/4.0/3.x/2.0, ASP.NET, ASP.NET Core, Web API, Microservices, MSMQ, AMQP, RabbitMQ, SocketIO, NServiceBus, Entity Framework, JavaScript, AngularJS 1-8, ADO.NET, WCF, Web Services, REST API, Windows Services, Dependency Injection, Unity Framework, Castle Windsor, Jasmine, JSON, Embeded C , TSQL, PL/SQL, XML, XAML, JSON, HTML, XSLT, SCSS, JavaScript, Linq, GitHub, TFS Git, Angular 1-8, MVC, Razor, WPF, SingnalR, WinForms, LINQ, AJAX, jQuery, Java, C, Managed C++, Unit Test,
+Golang, NodeJS, DenoJS, .NET 4.7/4.5/4.0/3.x/2.0, ASP.NET, ASP.NET Core, Web API, Microservices, MSMQ, AMQP, RabbitMQ, SocketIO, NServiceBus, Entity Framework, JavaScript, AngularJS 1-8, ADO.NET, WCF, Web Services, REST API, Windows Services, Dependency Injection, Unity Framework, Castle Windsor, Jasmine, JSON, Embeded C , TSQL, PL/SQL, XML, XAML, JSON, HTML, XSLT, SCSS, JavaScript, Linq, GitHub, TFS Git, Angular 1-8, Vue, MVC, Razor, WPF, SingnalR, WinForms, LINQ, AJAX, jQuery, Java, C, Managed C++, Unit Test, ReactJS
+
+
+## 😄 Cloud!
+- Kubernetes
+- Docker
+- AWS
+- Azure
+- GCP
+- Traefik
+- Nginx
+- Varnish
+- CDN
+
+
+## 😄 Awards!
+- TEB & BNP PARIBAS INTERNATIONAL HACKATHON 2017 Turkey Winner
+First Place on Banking and Insurance Category
 
 
 ## 🤔 Where else you can find me?
