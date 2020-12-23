@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-Experienced Full Stack Developer with 20+ years in the industry and high-level proficiency in the following programs: C#, NodeJS, .Net, Net Core, Rest API, Angular 1 to 8, Javascript, SQL, NoSQL Databases, Micro services and more. I want to work on exciting projects where I can improve myself. I am experienced with Web, desktop and mobile application architecture and have worked with a good number of successful development teams. Also, I have comprehensive knowledge of Operating Systems and Network infrastructures and strong experience in Scrum Methodologies.
+Experienced Full Stack Developer with 20+ years in the industry and high-level proficiency in the following programs: Golang, NodeJS, .Net, Net Core, Rest API, Angular 1 to 8, Javascript, SQL, NoSQL Databases, Micro services and more. I want to work on exciting projects where I can improve myself. I am experienced with Web, desktop and mobile application architecture and have worked with a good number of successful development teams. Also, I have comprehensive knowledge of Operating Systems and Network infrastructures and strong experience in Scrum Methodologies.
 
 I love designing software architecture.
 
