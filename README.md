@@ -6,11 +6,12 @@ Experienced Full Stack Developer with 20+ years in the industry and high-level p
 I love designing software architecture.
 
 ## 🔭 I’m currently working on
-- Golang
-- NodeJS
-- PostgreSql
-- MongoDB
-- RabbitMQ
+
+[![Golang](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go&link=https://github.com/savasayik/)](https://github.com/savasayik/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/savasayik/)](https://github.com/savasayik/)
+[![Postgres](https://img.shields.io/badge/-Postgres-black?style=flat&logo=postgres&link=https://github.com/savasayik/)](https://github.com/savasayik/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/savasayik/)](https://github.com/savasayik/)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=rabbitmq&link=https://github.com/savasayik/)](https://github.com/savasayik/)
 
 ## 👯 I’m looking to collaborate on
 - Microservices
@@ -38,32 +39,15 @@ Golang, NodeJS, DenoJS, .NET 4.7/4.5/4.0/3.x/2.0, ASP.NET, ASP.NET Core, Web API
 
 
 ## 😄 Awards!
-- TEB & BNP PARIBAS INTERNATIONAL HACKATHON 2017 Turkey Winner
+TEB & BNP PARIBAS INTERNATIONAL HACKATHON 2017 Turkey Winner <br />
 First Place on Banking and Insurance Category
 
 
-## 🤔 Where else you can find me?
-- Linkedin : [@savas-ayik](https://www.linkedin.com/in/savas-ayik/)
-- Instagram: [savasayik](https://instagram.com/savasayik)
-- StackShare: [savas](https://stackshare.io/savas)
-
-
 ## 📫 How to reach me
-- Drop me a mail at savas@savasayik.com!
+[![Linkedin Badge](https://img.shields.io/badge/savasayik-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/savas-ayik/)
+[![Stack Share](https://img.shields.io/badge/savasayik-follow%20on%20Stack%20Share-blue?style=for-the-badge&logo=stackshare)](https://stackshare.io/savas)  
+[![Instagram](https://img.shields.io/badge/savasayik-follow%20on%20Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/savasayik)
 
 
+![visitor count](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/savasayik)
 
-<!--
-**savasayik/savasayik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
