@@ -49,5 +49,5 @@ First Place on Banking and Insurance Category
 [![Instagram](https://img.shields.io/badge/savasayik-follow%20on%20Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/savasayik)
 
 
-![visitor count](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/savasayik/readme)
+![visitor count](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/savasayik)
 
