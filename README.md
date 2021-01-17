@@ -45,7 +45,7 @@ First Place on Banking and Insurance Category
 
 ## 📫 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/savasayik-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/savas-ayik/)
-[![Stack Share](https://img.shields.io/badge/savasayik-follow%20on%20Stack%20Share-blue?style=for-the-badge&logo=stackshare)](https://stackshare.io/savas)  
+[![Stack Share](https://img.shields.io/badge/savasayik-follow%20on%20Stack%20Share-blue?style=for-the-badge&logo=stackshare)](https://stackshare.io/savas/savasayik)  
 [![Instagram](https://img.shields.io/badge/savasayik-follow%20on%20Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/savasayik)
 
 
